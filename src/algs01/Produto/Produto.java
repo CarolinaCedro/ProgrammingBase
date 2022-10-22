@@ -40,6 +40,6 @@ public class Produto {
 
     @Override
     public String toString() {
-        return "Produto: "+getName()+": Preço: "+getPrice();
+        return "Produto: "+getName()+": Preco: "+getPrice();
     }
 }
