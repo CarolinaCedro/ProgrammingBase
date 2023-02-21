@@ -1,5 +1,10 @@
 ### A sintaxe básica do Java inclui as seguintes partes:
 
+
+#### Site de referencia que estudei
+https://www.baeldung.com/java-syntax
+
+
 Pacotes: os pacotes são usados para organizar as classes em grupos lógicos. Eles são definidos no início do arquivo Java usando a palavra-chave package. Por exemplo:
 
 
