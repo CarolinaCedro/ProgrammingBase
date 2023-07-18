@@ -13,9 +13,6 @@ public class ProdutoEscalar {
         array01[1] = 78;
         array01[2] = 90;
 
-        array02[0] = 30;
-        array02[1] = 22;
-        array02[2] = 50;
 
         System.out.println(produtoEscalar(array01, array02));
     }
